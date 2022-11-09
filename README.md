@@ -1,2 +1,1 @@
-*“It's not whether you're right or wrong,__
-but how much money you **make** when you're **right** and how much you **lose** when you're **wrong**.”*
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/kamalexio/kamalexio/blob/main/quote.json?theme=nord&animation=grow_out_in)
