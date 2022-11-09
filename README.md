@@ -1,2 +1,2 @@
-*“It's not whether you're right or wrong, 
+*“It's not whether you're right or wrong,__
 but how much money you **make** when you're **right** and how much you **lose** when you're **wrong**.”*
