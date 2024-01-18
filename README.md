@@ -3,9 +3,9 @@
 >     Choice is how you play them."  
 >
 > "Most people don’t have an edge.
-> If you think you have an edge, it needs to be logically demonstrable.
-> You’ve got to be able to defend it against a good devil’s advocate.
-> If you can’t do that, you probably don’t have an edge."
+>   If you think you have an edge, it needs to be logically demonstrable.
+>     You’ve got to be able to defend it against a good devil’s advocate.
+>       If you can’t do that, you probably don’t have an edge."
 > 
 >      Edward Thorp
   
