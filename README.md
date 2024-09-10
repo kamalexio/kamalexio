@@ -4,7 +4,7 @@
 > 
 >     Edward Thorp
 >
-> 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalexio)](https://github.com/kamalexio/github-readme-stats)
 >
 > ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalexio&show_icons=true&theme=dracula)
+>
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalexio&layout=compact&theme=dark)
